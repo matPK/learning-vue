@@ -1,6 +1,6 @@
-# vue-router-auth
+# Project Learning Vue.js
 
-> A Vue.js project
+> An exploratory Vue.js project with no clear goals but learning
 
 ## Build Setup
 
